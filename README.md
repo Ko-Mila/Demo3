@@ -1,4 +1,4 @@
-This is the project for git course on wexler.io
+This is the demo project for git course on wexler.io
 
 # Demo3
 x = 64 < 83
