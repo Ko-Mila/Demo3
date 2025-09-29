@@ -1,12 +1,8 @@
-This is the demo project for git course on wexler.io
-
-# Demo3
-x = 64 < 83
-print(x)
-x = 73 < 45
-print(x)
-x = 8.3 < 43
-print(x)
-x = 'Sample' < 'sample'
-print(x)
-print((22, 25, 34) < (32, 34, 46, 76))
+This is the demo project for git course 
+study 
+Python (Basics and Syntax, Functions, Data Structures, Debugging and Testing, Object-Oriented Programming (OOP))
+Libraries and Frameworks(Pandas, Flask/Django, NumPy, Docker)
+Modules and Packages, File Handling
+Version Control (Git)
+HTML, CSS
+SQL (MySQL, PostgreSQL)
